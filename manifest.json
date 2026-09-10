@@ -1,0 +1,10 @@
+{
+  "bookletId": "student-01",
+  "title": "Booklet 01 - AI Superpowers",
+  "version": "1.0.0",
+  "totalPages": 38,
+  "pageFormat": "webp",
+  "pageDirectory": "/pages/",
+  "thumbnailDirectory": "/thumbnails/",
+  "cover": "/preview/cover.webp"
+}
